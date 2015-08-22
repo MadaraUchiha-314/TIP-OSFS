@@ -16,6 +16,7 @@ Assignment - 1
  2) After building the bootstrap assembly, running it in Qemu using Grub as bootloader.
 
  Useful links :-
+
  http://wiki.osdev.org/Bare_Bones
  
  http://wiki.osdev.org/Bare_Bones_with_NASM
