@@ -27,12 +27,13 @@ Lecture - 2 (23rd August)
 ---------------------------------------------
 1. Booting up the OS made in Assignment-1
 2. Memory Protection and Structure Of Memory
-
 ---------------------------------------------
 Assignment - 2
 ---------------------------------------------
  1) Implement the putch () Function and print "Hello,World" in kernel"
+ 
  2) Add Functionality of '\n' in the putch () Function
+ 
  3) Read about the Real and Protected Mode of Operation
 
  Useful Liks :-
