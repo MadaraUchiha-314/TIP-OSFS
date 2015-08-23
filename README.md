@@ -27,6 +27,7 @@ Lecture - 2 (23rd August)
 ---------------------------------------------
 1. Booting up the OS made in Assignment-1
 2. Memory Protection and Structure Of Memory
+
 ---------------------------------------------
 Assignment - 2
 ---------------------------------------------
