@@ -6,7 +6,8 @@ Lecture - 1 (15th August)
 1. Multi File Programs
 2. NASM Assembly Language
 3. Stack Structure and Basic Memory
-4. BIOS and Bootloaders
+4. BIOS and Bootloaders 
+
 ---------------------------------------------
 Assignment - 1
 ---------------------------------------------
@@ -27,6 +28,7 @@ Lecture - 2 (23rd August)
 ---------------------------------------------
 1. Booting up the OS made in Assignment-1
 2. Memory Protection and Structure Of Memory
+
 ---------------------------------------------
 Assignment - 2
 ---------------------------------------------
