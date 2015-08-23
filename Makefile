@@ -9,6 +9,6 @@ qemu:myos.bin
 	grub-mkrescue -o myos.iso isodir
 	qemu-system-i386 -cdrom myos.iso
 clean:
-	rm -R *.o
-	rm -r myos.bin
-	rm myos.iso
+	rm -R -f *.o
+	rm -f ./*.bin ./isodir/boot/*.bin
+	rm -f myos.iso
