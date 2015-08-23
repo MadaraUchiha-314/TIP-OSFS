@@ -21,6 +21,7 @@ Assignment - 1
  http://wiki.osdev.org/Bare_Bones_with_NASM
 
  http://wiki.osdev.org/Boot_Sequence
+
 ---------------------------------------------
 Lecture - 2 (23rd August)
 ---------------------------------------------
@@ -34,6 +35,8 @@ Assignment - 2
  3) Read about the Real and Protected Mode of Operation
 
  Useful Liks :-
+
  http://wiki.osdev.org/Bare_Bones#Writing_a_kernel_in_C
+ 
  http://wiki.osdev.org/Real_Mode
  http://wiki.osdev.org/Protected_Mode
