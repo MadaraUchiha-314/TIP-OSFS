@@ -10,5 +10,5 @@ qemu:myos.bin
 	qemu-system-i386 -cdrom myos.iso
 clean:
 	rm -R *.o
-	rm myos.bin
+	rm -r myos.bin
 	rm myos.iso

@@ -9,7 +9,7 @@ CHECKSUM    equ -(MAGIC + FLAGS)        ; checksum of above, to prove we are mul
 
 align 4
 dd MAGIC
-dd FLAGS
+ dd FLAGS
 dd CHECKSUM
 
 
