@@ -41,12 +41,14 @@ Assignment - 2
  Useful Liks :-
 
  http://wiki.osdev.org/Bare_Bones#Writing_a_kernel_in_C
+ 
  http://wiki.osdev.org/Real_Mode
+ 
  http://wiki.osdev.org/Protected_Mode
  
- ---------------------------------------------
- Lecture - 3 (29th August)
- ---------------------------------------------
+---------------------------------------------
+Lecture - 3 (29th August)
+---------------------------------------------
  1. Global Descriptor Table
  2. Interrupt Descriptors and Vectors
  3. Local Descriptors
@@ -62,6 +64,8 @@ Assignment - 3
  Useful Links :-
  
  http://wiki.osdev.org/Protected_Mode
+ 
  http://wiki.osdev.org/GDT_Tutorial
+ 
  http://wiki.osdev.org/Interrupts
 
