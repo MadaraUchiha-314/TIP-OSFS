@@ -57,8 +57,11 @@ Lecture - 3 (29th August)
 Assignment - 3
 ---------------------------------------------
  1) Switch from real to protected mode
+ 
  2) Setup GDT
+ 
  3) Add dummy entries to GDT
+ 
  4) Get a working triple-fault and demonstrate a double fault.
 
  Useful Links :-
